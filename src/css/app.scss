@@ -1,0 +1,11 @@
+// app global css in SCSS form
+.quote-font {
+  font-family: 'Courgette', cursive;
+}
+
+.button-lower-right {
+  position: fixed;
+  bottom: 25px;
+  right: 35px;
+  z-index: 5
+}
